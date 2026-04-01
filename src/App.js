@@ -8,10 +8,10 @@ import { nanoid } from "nanoid";
 function App() {
   const [state, setState] = useState({
     contacts: [
-      { id: "id-1", name: "Rosie Simpson", number: "459-12-56" },
-      { id: "id-2", name: "Hermione Kline", number: "443-89-12" },
-      { id: "id-3", name: "Eden Clements", number: "645-17-79" },
-      { id: "id-4", name: "Annie Copeland", number: "227-91-26" },
+      { id: "id-1", name: "Mary", number: "+(38) 099 123 45 67" },
+      { id: "id-2", name: "Ira", number: "+(38) 067 234 56 78" },
+      { id: "id-3", name: "Danya", number: "+(38) 095 345 67 89" },
+      { id: "id-4", name: "Vanya", number: "+(38) 096 456 78 90" },
     ],
     filter: "",
     name: "",
