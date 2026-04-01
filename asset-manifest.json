@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework-react10-phone-book-/static/css/main.86254071.css",
+    "main.js": "/homework-react10-phone-book-/static/js/main.fa1793ae.js",
+    "index.html": "/homework-react10-phone-book-/index.html",
+    "main.86254071.css.map": "/homework-react10-phone-book-/static/css/main.86254071.css.map",
+    "main.fa1793ae.js.map": "/homework-react10-phone-book-/static/js/main.fa1793ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86254071.css",
+    "static/js/main.fa1793ae.js"
+  ]
+}
