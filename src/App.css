@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: linear-gradient(to right, #f1f8f4, #e8f5e9);
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(to right, #f1f8f4, #e8f5e9);
+  color: #1b3a2b;
+}
+
+h1 {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-weight: 500;
+  margin-top: 20px;
+}
